@@ -1,5 +1,5 @@
 # Simple And Optimized Status HUD!
-# Dowlaond newest wersion from releases
+# Dowlaond the newest wersion from releases ->
 *Simple status hud with similar design as my other vehicle hud, and its free too!* 
 
 **For support and faster realeases join my discord server** -> https://discord.gg/V5GUdXc3e5
